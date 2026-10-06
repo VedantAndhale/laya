@@ -1,0 +1,4 @@
+spaces>=0.30
+torch>=2.8
+transformers>=5.0
+laya==0.3.27
